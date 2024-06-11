@@ -2,7 +2,7 @@ Preparação do primeiro projeto.
 
 Criar um arquivo chamado db.properties, contendo dados do nosso SQL Workbench.
 
-![image](https://github.com/zenonxd/jdbc/assets/64092861/7d392278-eb25-41a0-bb0c-2888db043469)
+![image](https://github.com/zenonxd/jdbc/assets/64092861/877f1ca5-9630-4096-bdff-0e1ad4275792)
 
 
 Depois, iremos criar uma classe para dar load nesse arquivo.
