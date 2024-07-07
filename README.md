@@ -31,7 +31,6 @@ Para finalizar, criaremos uma função para fechar a conexão.
 !!Tem que passar a SQLException, assim como lá em cima. Dando o throw na DBException criada.!! 
 ![image](https://github.com/zenonxd/jdbc/assets/64092861/e7508dd3-dec5-49c4-8ada-443fe90dbbc2)
 
-
 A classe DB serve pra ter todo o trabalho. No main para conectar no banco, é só usar isso.
 
 ![image](https://github.com/zenonxd/jdbc/assets/64092861/b81616b7-b94b-4e64-ae0c-840694af43c7)
